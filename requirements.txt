@@ -1,0 +1,8 @@
+openai
+pandas
+numpy
+flask
+python-dotenv
+mysql.connector
+pytesseract
+opencv-python
